@@ -4,6 +4,3 @@
 [![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524992176690?text=)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodes02&layout=compact)](https://github.com/joaodes02/github-readme-stats)
-
-O conhecimento é uma chave que abre as portas do sucesso.
-
